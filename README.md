@@ -15,3 +15,5 @@ Machine Learning | Data science | DataOps | MLOps | AIOps | Data analytics in Py
 4. Projects in a data science
 5. Projects in analytics
 6. projects in Machine learning
+7. New project sf
+
